@@ -2,7 +2,7 @@
 
 ## Práctica para Programación de Vanguardia
 
-Este proyecto es una aplicación Java desarrollada como práctica para la materia Programación de Vanguardia de la facultad de la ciudad de Buenos Aires. 
+Este proyecto es una aplicación Java desarrollada como práctica para la materia Programación de Vanguardia de la  Universidad de la Ciudad de Buenos Aires por Carlos Marchinares.
 La aplicación `Smart Green` tiene como objetivo simular el control inteligente de jardines, permitiendo monitorear la temperatura, accionar el riego del pasto 
 y alertar al usuario sobre temperaturas elevadas.
 
